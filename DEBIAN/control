@@ -3,7 +3,7 @@ Version: 1.0
 Section: utils
 Priority: optional
 Architecture: all
-Depends: bash, wget
+Depends: bash, wget|curl
 Maintainer: Me <minhnhat1264.1994@gmail.com>
 Description: A simple package manager wrapper for Linux
  A lightweight tool for package management scripts or automation.
